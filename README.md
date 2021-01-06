@@ -5,12 +5,12 @@ Repozitorij sadrži laboratorijske vježbe 1. semestra Fakulteta elektrotehnike 
 ### 1. Laboratorijska vježba 
  -  Vježba za upoznavanje rada programa nadopunjavanjem shematskih sklopova te upravljanja tenka
  - Svaki gumb bi imao neku svoju funkcionalnost, a neke od njih su paljenje/gašenje motora, okretanje kupole, vožnja u svim smjerovima, emitiranje mitraljeza i ispaljivanja granate
-![Scheme 1](Images/scheme1)
+![Scheme 1](Images/scheme1.png)
 
 ### 2. Laboratorijska vježba
 
 - Crtanje shematskih sklopova tako da pritiskom na određeni gumb se prikaže slovo imena/prezimena. Npr. na lijevi gumb bi se postavio određeni ASCII kod te se pritiskom na njega prikazuje slovo koje predstavlja taj ASCII kod
- ![Scheme 2](Images/scheme2)
+ ![Scheme 2](Images/scheme2.png)
  ![Emuliranje terminala u cmd-u](Images/terminal2.png)
 
 ### 3. Laboratorijska vježba 
@@ -39,12 +39,12 @@ The repository contains laboratory exercises for the first semester of Faculty o
 ### 1. Laboratory Exercise
 - Exercises to get familiar with the work of the Lattice Diamond by replenishing the scheme assembly for instructions to drive a tank
 - Every button on the board would have it's own functionality, and some of them are toggling the ignition, turret rotation, driving in all directions, imitation of machine gun and firing grenades
-![Scheme 1](Images/scheme1)
+![Scheme 1](Images/scheme1.png)
 
 ### 2. Laboratory Exercise
 
 - Drawing schematic assemblies so that combination of buttons can give a letter of name/surname. For example, a specific ASCII code would be placed on button left and pressing it would show a letter representing the ASCII code
- ![Scheme 2](Images/scheme2)
+ ![Scheme 2](Images/scheme2.png)
  ![Emulating terminal in cmd](Images/terminal2.png)
  
 ### 3. Laboratory Exercise
